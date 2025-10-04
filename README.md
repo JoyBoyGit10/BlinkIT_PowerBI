@@ -9,4 +9,4 @@
    <img width="1213" height="671" alt="Image" src="https://github.com/user-attachments/assets/83fa3ad8-1831-4f7c-967a-fb71f7a87c29" />
    
    ### Dashboard Demo
-   https://github.com/user-attachments/assets/de54e677-fe51-4bde-ad5a-dfc914f2174f
+   [https://github.com/user-attachments/assets/de54e677-fe51-4bde-ad5a-dfc914f2174f](https://github.com/user-attachments/assets/90a574cd-9171-4830-b2bb-4e2ff70daf98)
